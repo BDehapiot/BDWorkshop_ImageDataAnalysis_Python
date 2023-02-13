@@ -1,0 +1,12 @@
+name: IDA_Python
+
+channels:
+  - conda-forge
+    
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-image
+  - matplotlib-base
+  - jupyterlab

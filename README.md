@@ -1,2 +1,7 @@
-# BDCourse_Python
-Learn image data analysis with Python
+# Image Data Analysis with Python 
+
+## Getting started
+
+First you will need to install Python and the appropriate environment to run the different module of this course.
+
+## Content
