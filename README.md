@@ -3,8 +3,8 @@
 ![Date Badge](https://img.shields.io/badge/Created-2023--02--13-blue?labelColor=rgb(50%2C60%2C65)&color=rgb(149%2C157%2C165))
 ![License Badge](https://img.shields.io/badge/Licence-GNU%20General%20Public%20License%20v3.0-blue?labelColor=rgb(50%2C60%2C65)&color=rgb(149%2C157%2C165))     
 
-# BDWorkshop_ImageDataAnalysis_Python
-Learn basic Python applied to image data analysis
+# BDWorkshop_Python_IDA
+Learn Image Data Analysis with Python
 
 ## Index
 - [Installation](#installation)
